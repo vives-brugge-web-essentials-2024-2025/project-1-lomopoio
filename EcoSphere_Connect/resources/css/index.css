@@ -13,7 +13,7 @@ body {
 
 /* Header met titel en slogan */
 .hero {
-    background-image: url(../../recources/images/site_heading_pic.webp);
+    background-image: url(../../resources/images/site_heading_pic.webp);
     background-size: cover;
     background-position: center;
     color: #fff;
